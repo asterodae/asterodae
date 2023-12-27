@@ -1,16 +1,9 @@
-<h1 align="center">good meowning</h1>
+<h2 align="center">good meowning</h1>
 
 <div align="center">
-	<table style="border:none">
-		<tr>
-		<td style="width:50%">
-		<img src="https://i.redd.it/almmk6g0hxrb1.gif" height="50" />
-		</td>
-		<td style="width:50%">
+	<img src="https://i.redd.it/almmk6g0hxrb1.gif" height="250" />
 		im valerie :3 i do stuff sometimes and
 		am volunteering for <b><a href="" style="text-decoration:none;color:#9d6fc1;">cyber info</a></b>
-		</tr>
-	</table>
 
 
 <!--
