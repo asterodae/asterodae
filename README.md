@@ -6,7 +6,7 @@
 		<td style="width:50%;border-color:#FFF">
 		<img src="https://i.redd.it/almmk6g0hxrb1.gif" />
 		</td>
-		<td style="width:50%;border-color:#FFF"
+		<td style="width:50%;border-color:#FFF">
 		im valerie :3 i do stuff sometimes and
 		am volunteering for <b><a href="" style="text-decoration:none;color:#9d6fc1;">cyber info</a></b>
 		</tr>
